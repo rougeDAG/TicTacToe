@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet","Description","#"
+"button1,button2,button3,button4,button5,button6,button7,button8,button9,D_Clear1,D_Preset1","11","SW_Push","","","","","~","Push button switch, generic, two pins","1"
+"U1,U6,U8","3","74LS02","","","","","http://www.ti.com/lit/gpn/sn74ls02","quad 2-input NOR gate","2"
+"U2,U9,U10,U12,U13,U14","6","74LS11","","","","","http://www.ti.com/lit/gpn/sn74LS11","Triple 3-input AND","3"
+"U3,U5,U7","3","74LS08","","","","","http://www.ti.com/lit/gpn/sn74LS08","Quad And2","4"
+"U4,U11","2","74LS14","","","","","http://www.ti.com/lit/gpn/sn74LS14","Hex inverter schmitt trigger","5"
+"U15,U16,U17,U18,U19,U20,U21,U22,U23","9","74LS74","","","","","74xx/74hc_hct74.pdf","Dual D Flip-flop, Set & Reset","6"
