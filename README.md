@@ -1,4 +1,5 @@
-#TicTacToe
+<h1>TicTacToe</h1>
+
 A first year graded project I submitted for my course in Digital System Design (Winter Semester, Vellore Institue of Technology, Chennai). This is a Tic Tac Toe game that uses only digital logic to play the game. PCB Design was done on KiCad , an open source PCB Design software. I simulated the circuit in another open source digital simulator called Digital.exe (which is based on another software called Logisim) by Helmut Neemann which I downloaded from his GitHub repository.
 Digital.exe helped me immensely in my project as I cannot have simulated my project without this software for free. Here is his GitHub repository: github.com/hneemann/Digital
 ![image](https://github.com/user-attachments/assets/638daecc-1708-4972-b0c7-fd5532f2a82e)
@@ -15,7 +16,8 @@ Again it would've been painstaking to connect all the components pinouts invidiv
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-#Sneek Peek into Digital.exe simulation:
+<h1>Sneek Peek into Digital.exe simulation:</h1>
+
 ![image](https://github.com/user-attachments/assets/28c1712d-ebc4-4ba3-80d2-dc1adf3442a6)
 ![image](https://github.com/user-attachments/assets/b45eea0e-ee93-4b34-8a3d-f98cafa9dbb4)
 ![image](https://github.com/user-attachments/assets/7cb3adbb-5b54-4767-8356-5c3be973a628)
