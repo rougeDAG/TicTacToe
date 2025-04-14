@@ -1,12 +1,12 @@
 <h1>TicTacToe</h1>
 
 A first year graded project I submitted for my course in Digital System Design (Winter Semester, Vellore Institue of Technology, Chennai). This is a Tic Tac Toe game that uses only digital logic to play the game. PCB Design was done on KiCad , an open source PCB Design software. I simulated the circuit in another open source digital simulator called Digital.exe (which is based on another software called Logisim) by Helmut Neemann which I downloaded from his GitHub repository.
-Digital.exe helped me immensely in my project as I cannot have simulated my project without this software for free. Here is his GitHub repository: github.com/hneemann/Digital
+Digital.exe helped me immensely in my project as I cannot have simulated my project without this software for free. Here is his GitHub repository: [github.com/hneemann/Digital](#github.com/hneemann/Digital)
 ![image](https://github.com/user-attachments/assets/638daecc-1708-4972-b0c7-fd5532f2a82e)
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-Now for KiCad, I used another free and open source software called Freerouting by Andras Fuchs to auto-route my wire connections in KiCad. Here is that GitHub repository: github.com/freerouting/freerouting
+Now for KiCad, I used another free and open source software called Freerouting by Andras Fuchs to auto-route my wire connections in KiCad. Here is that GitHub repository: [github.com/freerouting/freerouting](#github.com/freerouting/freerouting)
 Again it would've been painstaking to connect all the components pinouts invidivually , thus this software also played a massively role in saving time as I had to submit my project in a short span of time.
 
 
