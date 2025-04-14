@@ -7,6 +7,7 @@ Digital.exe helped me immensely in my project as I cannot have simulated my proj
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 Now for KiCad, I used another free and open source software called Freerouting by Andras Fuchs to auto-route my wire connections in KiCad. Here is that GitHub repository: [github.com/freerouting/freerouting](#github.com/freerouting/freerouting)
+
 Again it would've been painstaking to connect all the components pinouts invidivually , thus this software also played a massively role in saving time as I had to submit my project in a short span of time.
 
 
